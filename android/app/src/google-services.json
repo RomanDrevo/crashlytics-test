@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364733881858",
+    "project_id": "myatt-dc03d",
+    "storage_bucket": "myatt-dc03d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364733881858:android:e0ca6514bae795daaf911b",
+        "android_client_info": {
+          "package_name": "my.att.att1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364733881858-ncloc9g2bjpgccmra0b0sope6jtsirsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClzwyf4cXUWNkFYQ8YitfyhiJrp9XPS9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364733881858-ncloc9g2bjpgccmra0b0sope6jtsirsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
